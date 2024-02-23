@@ -14,3 +14,11 @@ The plot of the presentation was simple: one day, I (JavaScript) am tending to m
 Naturally, I recruit a group of helpers from the audience to play roles such as Event Listeners, and piece by piece, we build up the proper functioning of a button in a webpage.
 
 On the code side, we go from simple alerts to calling APIs that provide us with pictures of apples.
+
+This presentation involved a lot of quick-changes, where JavaScript (the person) would go backstage and I would come out to do the actual coding sections as myself, asking, "where did that JavaScript guy go, anyway?"
+
+![Me without JavaScript](https://github.com/wdmd2022/livecodings/blob/39629419de1f1f9ca21cdc1f38ad107aeefc7c3b/JavaScript%20is%20Cool/javascript_presentation.jpg)
+
+
+I have to say, he was a pretty cool guy!
+![JavaScript selfie]()
