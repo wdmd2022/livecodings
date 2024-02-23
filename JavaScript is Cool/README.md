@@ -21,4 +21,4 @@ This presentation involved a lot of quick-changes, where JavaScript (the person)
 
 
 I have to say, he was a pretty cool guy!
-![JavaScript selfie]()
+![JavaScript selfie](https://github.com/wdmd2022/livecodings/blob/a7489408f219d3fe8d0e83f52bf15c74a3ffa40c/JavaScript%20is%20Cool/javascript_the_person_selfie.jpg)
