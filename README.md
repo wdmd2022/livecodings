@@ -7,6 +7,7 @@ Livecode topics include:
 - [ORMs](ORMs)
 
 - [JavaScript](JavaScript%20is%20Cool)
+  (this one includes a short video of me in character as JavaScript himself!)
 
 - [Singly-Linked Lists](Singly-Linked%20Lists)
 
