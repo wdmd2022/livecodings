@@ -2,7 +2,7 @@
 or,
 # A Walk Through Websiteville
 
-![JavaScript looks upon his helpers]()
+![JavaScript looks upon his helpers](https://github.com/wdmd2022/livecodings/blob/2ed8cd9f263b49bb214b69ee360f83a7bb9a6ee9/JavaScript%20is%20Cool/javascript_presentation_people.jpg)
 
 This presentation was an absolute blast!
 
