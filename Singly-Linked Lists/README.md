@@ -11,3 +11,6 @@ We practiced adding and removing nodes (by changing where we were pointing) and 
 It was a great day everybody walked out of there with more friends than before!
 
 ![image of people pointing](https://github.com/wdmd2022/livecodings/blob/54522b6945d8efcbc71f861718fa89efcf56eb69/Singly-Linked%20Lists/pointers.jpg)
+
+
+![image of me explaining singly-linked lists](https://github.com/wdmd2022/livecodings/blob/edf763fa151c940b9c364adfbc0c5ea783a294b9/Singly-Linked%20Lists/pointers_explained.jpg)
