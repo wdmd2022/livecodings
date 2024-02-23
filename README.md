@@ -4,12 +4,12 @@
 
 Livecode topics include:
 
-- ORMs
+- [ORMs](ORMs)
 
-- JavaScript
+- [JavaScript](JavaScript%20is%20Cool)
 
-- Singly-Linked Lists
+- [Singly-Linked Lists](Singly-Linked%20Lists)
 
-- Design + UI/UX
+- [Design + UI/UX](Design)
 
 
