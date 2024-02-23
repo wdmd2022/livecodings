@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pexels API Example</title>
+</head>
+<body>
+    <button id="fetchButton">Get more apples</button>
+    <div id="images"></div>
+
+    <script>
+        const apiKey = 'yUlWziQy0En3Cj0LNU1BHVpoQIvN3wUiXhJFjiweEH2FrpG9g2hu730p'; // api key
+        const query = 'apples'; // search query
+        const numberOfPhotos = 5; // Number of photos to display
+
+        function fetchApples() {
+            fetch(`https://api.pexels.com/v1/search?query=${query}&per_page=${numberOfPhotos}`, {
+                headers: {
+                    Authorization: apiKey,
+                },
+            }).then(response => response.json()).then(data => {
+                const imagesDiv = document.getElementById('images');
+                imagesDiv.innerHTML = ''; // clear previous images
+
+                data.photos.forEach(photo => {
+                    const imageElement = document.createElement('img');
+                    imageElement.src = photo.src.large;
+                    imagesDiv.appendChild(imageElement);
+                });
+            }).catch(error => console.error('Whoops I dropped the photos', error));
+        }
+
+
+        document.getElementById('fetchButton').addEventListener("click", fetchApples);
+
+    </script>
+</body>
+</html>

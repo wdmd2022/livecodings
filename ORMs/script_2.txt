@@ -1,0 +1,56 @@
+volunteer 1 == Person 1: has a list of valentines
+volunteer 2 == DATABASE: the DATABASE
+Douglas == Orm, the SQLAlchemist
+
+
+(ORM walks over to Person 1)
+
+
+Person 1: Hey Orm, can you please put this in the Database? (hands paper to ORM)
+
+ORM: (says 'yes' and walks over to DATABASE)
+
+
+
+
+DATABASE: HELLO ORM
+
+ORM:
+    Hello, Database!
+    USE DATABASE mydatabase;
+
+DATABASE: Database changed.
+
+ORM:
+    CREATE TABLE IF NOT EXISTS 'valentines' ;
+    name VARCHAR(16) UNIQUE NOT NULL PRIMARY KEY,
+    message VARCHAR(256) NOT NULL;
+
+    INSERT INTO valentines (name, message) VALUES
+        ('Robin', 'Dear Robin, Happy Valentine''s Day'),
+        ('Alex', 'Dear Alex, Happy middle of February!'),
+        ('Jordan', 'Dear Jordan, Hey, what''s up?'),
+        ('Taylor', 'Dear Taylor, You are cool'),
+        ('Casey', 'Dear Casey, Wishing you the best!'),
+        ('Jamie', 'Dear Jamie, What''s new with you?'),
+        ('Morgan', 'Dear Morgan, Have a great day!'),
+        ('Frankie', 'Dear Frankie, You''re doing great!'),
+        ('Jesse', 'Dear Jesse, Stay awesome!'),
+        ('Charlie', 'Dear Charlie, You''ve got this!'),
+        ('Sam', 'Dear Sam, Thinking of you today');
+
+DATABASE: Consider it done.
+
+ORM: Thank you database!
+
+DATABASE: Anything for you, Orm.
+
+
+(Orm walks back over to Person 1)
+
+ORM: It's all taken care of.
+    Let me know if you need to do anything with your records.
+
+Person 1: Thanks, Orm! You are so cool and wise and a pleasure to work with.
+
+ORM: Hey, thanks, I think you're cool too.

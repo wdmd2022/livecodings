@@ -1,0 +1,11 @@
+"name": "Robin", "gift": "sculpture of us holding hands",
+"name": "Alex", "gift": "candy",
+"name": "Jordan", "gift": "framed poem",
+"name": "Taylor", "gift": "recording of song I wrote",
+"name": "Casey", "gift": "romantic socks",
+"name": "Jamie", "gift": "papier-mache heart",
+"name": "Morgan", "gift": "sweater",
+"name": "Frankie", "gift": "chocolates",
+"name": "Jesse", "gift": "portrait painting",
+"name": "Charlie", "gift": "play tickets",
+"name": "Sam", "gift": "flower"

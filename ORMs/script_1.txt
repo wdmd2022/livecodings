@@ -1,0 +1,66 @@
+volunteer 1 == Person 1: has a list of valentines
+volunteer 2 == DATABASE: the DATABASE
+
+
+(Person 1 walks over to DATABASE and tries to hand the a piece of paper)
+
+
+Person 1: Please remember this list (attempting to hand it to DATABASE)
+
+DATABASE: No, I can't
+
+Person 1: Please
+
+DATABASE: I really can't
+
+Person 1: This is very annoying
+
+DATABASE: I'm not trying to be annoying
+
+Person 1: How hard can this be?
+
+DATABASE: Please don't talk to me that way.
+
+Person 1: I'm not trying to be rude. Please just store this information in a table of valentines.
+
+DATABASE: I'm not saying that you are being rude. But please don't talk to me that way.
+
+Person 1: What's wrong?
+
+DATABASE: You're not being specific enough.
+
+Person 1: It's a simple list, please just stop hassling me.
+
+DATABASE: I can only do the exact database operations you ask me to do. I need you to be specific.
+
+Person 1: You seriously need me to go line by line? I have a lot of valentines to send.
+
+DATABASE: If you want me to store them, you need to be specific.
+
+Person 1: Ugh, fine! I will tell you what to do specifically in my-database.
+
+DATABASE: Okay, I'm listening.
+
+Person 1:
+    INSERT INTO valentines (name, message) VALUES
+        ('Robin', 'Dear Robin, Happy Valentine''s Day'),
+        ('Alex', 'Dear Alex, Happy middle of February!'),
+        ('Jordan', 'Dear Jordan, Hey, what''s up?'),
+        ('Taylor', 'Dear Taylor, You are cool'),
+        ('Casey', 'Dear Casey, Wishing you the best!'),
+        ('Jamie', 'Dear Jamie, What''s new with you?'),
+        ('Morgan', 'Dear Morgan, Have a great day!'),
+        ('Frankie', 'Dear Frankie, You''re doing great!'),
+        ('Jesse', 'Dear Jesse, Stay awesome!'),
+        ('Charlie', 'Dear Charlie, You''ve got this!'),
+        ('Sam', 'Dear Sam, Thinking of you today');
+
+DATABASE: Thanks for trying. No can do.
+
+Person 1: WHAT????? WHY NOT?
+
+DATABASE: Table 'my-database.valentines' doesn't exist. You forgot to make it first.
+
+Person 1: ARGH!!
+
+
